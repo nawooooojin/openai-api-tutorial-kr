@@ -9,7 +9,7 @@
 OpenAI API 실습 자료입니다.
 
 Responses API로 텍스트를 생성하는 기본부터 Function Calling, 이미지·음성 생성까지 단계별로 다루고, 마지막에는 배운 내용을 엮어 **유튜브 강의를 PDF 요약본으로 만드는 프로젝트**를 진행합니다.
-모든 노트북은 2026년 10월 기준 OpenAI API(GPT-6, gpt-image-2.5, gpt-transcribe 등)로 작성되어 있고, Colab에서 바로 실행할 수 있습니다.
+모든 노트북은 2026년 10월 기준 OpenAI API(GPT-6, gpt-image-2.5, gpt-transcribe 등)로 작성되어 있고, Colab에서 바로 실행할 수 있습니다. (Video Generation은 API 종료로 실행 결과만 보존)
 
 <br>
 
@@ -77,7 +77,7 @@ Video Generation은 Sora 2 API가 2026년 9월에 종료되어, 수업 당시의
 
 1. 위 표에서 노트북의 **Open in Colab** 배지를 클릭합니다.
 2. 왼쪽 사이드바 🔑 **보안 비밀**에 `OPENAI_API_KEY`를 추가하고 노트북 액세스를 허용합니다.
-3. 위에서부터 순서대로 실행합니다. 실습 데이터가 필요한 노트북은 첫 셀에서 레포를 자동으로 받아옵니다.
+3. 위에서부터 순서대로 실행합니다. 실습 데이터가 필요한 노트북은 앞부분 셀에서 레포를 자동으로 받아옵니다.
 
 ### Local
 
