@@ -6,7 +6,7 @@
 ![Last Updated](https://img.shields.io/badge/updated-2026.10-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-아주대학교 「모바일컴퓨팅특론」 수업에서 진행했던 OpenAI API 실습 자료입니다.
+OpenAI API 실습 자료입니다.
 
 Responses API로 텍스트를 생성하는 기본부터 Function Calling, 이미지·음성 생성까지 단계별로 다루고, 마지막에는 배운 내용을 엮어 **유튜브 강의를 PDF 요약본으로 만드는 프로젝트**를 진행합니다.
 모든 노트북은 2026년 10월 기준 OpenAI API(GPT-6, gpt-image-2.5, gpt-transcribe 등)로 작성되어 있고, Colab에서 바로 실행할 수 있습니다.
@@ -116,6 +116,12 @@ openai-api-tutorial-kr/
 ├── assets/
 └── requirements.txt
 ```
+
+<br>
+
+## 📌 Reference
+
+- 아주대학교 「모바일컴퓨팅특론」 수업 LLM API 실습 자료 (2025)
 
 <br>
 
