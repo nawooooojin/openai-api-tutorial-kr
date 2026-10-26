@@ -1,0 +1,8 @@
+openai[realtime]>=3.37.0
+requests
+pydantic
+pillow
+ipywidgets
+reportlab
+yt-dlp
+jupyterlab

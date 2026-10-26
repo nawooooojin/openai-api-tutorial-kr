@@ -1,0 +1,23 @@
+# 실습 실행 결과물 (노트북을 돌리면 생기는 폴더)
+results/
+fonts/
+**/data/audio/3b1b_llm_lecture.webm
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 환경 변수 / API 키 (절대 커밋 금지!)
+.env
+.venv/
+venv/
+env/
+api_key*.txt
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
